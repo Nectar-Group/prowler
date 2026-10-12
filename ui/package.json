@@ -98,7 +98,7 @@
     "recharts": "2.15.4",
     "require-in-the-middle": "8.0.1",
     "server-only": "0.0.1",
-    "sharp": "0.33.5",
+    "sharp": "0.35.5",
     "shiki": "3.20.0",
     "streamdown": "1.6.10",
     "tailwind-merge": "3.3.1",
